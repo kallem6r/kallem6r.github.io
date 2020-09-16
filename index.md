@@ -14,14 +14,8 @@ So as a kid I have always being around computers, from playing video games to ho
 Studying with RMIT just made sense to me, as a university that is renowned for their IT and engerineering it made sense to start my career off in a university that excels in this area.
 I personally expect that with my time at RMIT I will learn the skills necessary to enter in the IT industry, from website creation, cloud management, customer service and quick and efficient problem solving.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+### Ideal IT related job
+## [Link]https://www.seek.com.au/job/50558273?type=standout#searchRequestToken=c1a054d3-641e-43be-b150-aec9755c606b 
 - List
 
 1. Numbered
