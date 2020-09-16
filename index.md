@@ -15,8 +15,9 @@ Studying with RMIT just made sense to me, as a university that is renowned for t
 I personally expect that with my time at RMIT I will learn the skills necessary to enter in the IT industry, from website creation, cloud management, customer service and quick and efficient problem solving.
 
 ### Ideal IT related job
-## [Link](https://www.seek.com.au/job/50558273?type=standout#searchRequestToken=c1a054d3-641e-43be-b150-aec9755c606b)
-- List
+## [Link to role](https://www.seek.com.au/job/50558273?type=standout#searchRequestToken=c1a054d3-641e-43be-b150-aec9755c606b)
+
+So the role I have allocated as a role that I am interested in is an Applications and Database Analyst which can be found with the link above. 
 
 1. Numbered
 2. List
