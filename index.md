@@ -16,7 +16,7 @@ I personally expect that with my time at RMIT I will learn the skills necessary 
 
 ### Ideal IT related job
 ## [Link to role](https://www.seek.com.au/job/50558273?type=standout#searchRequestToken=c1a054d3-641e-43be-b150-aec9755c606b)
-## ![
+## ![Role](kallem6r.github.io/chrome_2020-09-20_02-48-04.png)
 
 So the role I have allocated as a role that I am interested in is an Applications and Database Analyst which can be found with the link above. 
 The thing that has brought my attention to this job is the problem solving aspect that it has and working on the start of new projects.  
