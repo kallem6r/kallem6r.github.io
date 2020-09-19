@@ -5,7 +5,7 @@ Hi, my name is Kallem Siofaga Sua and today i'll be explaining a little bit abou
 ### About me and more 
 
 Allow me to introduce myself, as stated before my name is Kallem Sua, my student number and email is s3879738@student.rmit.edu.au, I was born in Australia with a Samoan heritage with my dad being born in Samoa and mum from New Zealand.
-A few of my hobbies including gaming, working out, sports and music. One interesting fact about myself is I have 20,000 hours in Dota 2 as I have played since release.
+A few of my hobbies including gaming, working out, sports and music. One interesting fact about myself is I have 20,000 hours in Dota 2 as I have played since release and I am a classically trained pianist.
 
 ### What interests me in IT
 
@@ -16,9 +16,10 @@ I personally expect that with my time at RMIT I will learn the skills necessary 
 
 ### Ideal IT related job
 ## [Link to role](https://www.seek.com.au/job/50558273?type=standout#searchRequestToken=c1a054d3-641e-43be-b150-aec9755c606b)
+## ![
 
 So the role I have allocated as a role that I am interested in is an Applications and Database Analyst which can be found with the link above. 
-
+The thing that has brought my attention to this job is the problem solving aspect that it has and working on the start of new projects.  
 1. Numbered
 2. List
 
