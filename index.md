@@ -25,9 +25,6 @@ What really drives me to believe that this is job that I could see myself doing 
 For the role I believe that all these things I am able to learn within this degree and throughout my journey within the IT industry. My current skillset is varied with an abundance of experience using Microsoft365 throughout the entirety of my life using windows as the main OS(Operating System) and already learnt alot of SQL commands and communicating to a databases as it is something that I have already studied at TAFE. The skilsl that I would need to learn which is all avaliable through this current degree is learning and understanding programming and pyhton which is covered within this degree as a different unit and the experience of using a school management systems which is something that I can devlop at home in my spare time while I focusing on hammering down my understanding on the python scripting and using WebAPI's.
 
 
-
-[Link](url) and ![Image](src)
-
 ### Personality Test
 Through the Myers-Briggs personality test, the personality that I had recieved throughh the test was ENFP-T and from what I understand, this personality type's strong areas are its people skills, being able to create an environment of enthusiasm while still caring for the other individuals feelings which can help a group of people working on a project immensely. With this in mind ENFP's do have the tendancy of being easily distracted and lack organisation skills which may create issues within a working environment, as well as  that ENFP's also struggle with following rules and overthink many sitautions which may cause confusion and miscommunication between colleagues.
 When forming a team of people, it would be important to not have too many of this personality type as lacking organisational skills and not following rules could cause a lack of workflow produced or even no work being completed as they are also easily distracted.
